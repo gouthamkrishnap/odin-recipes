@@ -1,0 +1,50 @@
+body {
+    background-color: rgb(240, 223, 200);
+    padding: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#index a {
+    display: block;
+    margin-bottom: 10px;
+}
+
+h1,h2 {
+    font-family: 'Trebuchet MS', Helvetica, sans-serif;
+    text-align: center;
+}
+h1 {
+    color: rgb(149, 65, 9);
+}
+h2 {
+    color:rgb(224, 82, 30);
+}
+p {
+    padding-left: 20px;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    max-width: 100%;
+    height: auto;
+}
+
+li {
+    font-size: small;
+    text-align: left;
+    padding: 5px 10px;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(200, 110, 0);
+}
+a:hover {
+    color: rgb(208, 28, 9);
+    text-decoration: underline
+}
+a:visited {
+    color: rgb(200, 110, 0);
+}
